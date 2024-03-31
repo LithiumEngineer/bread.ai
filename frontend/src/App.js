@@ -4,7 +4,7 @@ import Home from "./components/Home"
 import Playground from "./components/Playground"
 
 function App() {
-  return <Playground />
+  return <Home />
 }
 
 export default App
